@@ -1,6 +1,6 @@
 <?php 
 // koneksi data base
-$conn = mysqli_connect("localhost","root","","pendaftaran");
+$conn = mysqli_connect("localhost","root","","buku");
 
 // cara munculkan data base ke tabel dengan cara meluping
 
